@@ -122,10 +122,12 @@
     "caption": "{name}"
   },
   "node.kimchi": {
-    "caption": "{name}"
+    "caption": "{name}",
+    "color": "#A5ABB6"
   },
   "node.korean": {
-    "caption": "{name}"
+    "caption": "{name}",
+    "color": "#A5ABB6"
 },
   "node.destination_longitude": {
     "caption": "{name}"
