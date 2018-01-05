@@ -86,7 +86,10 @@
     "caption": "{name}"
   },
   "node.restaurant": {
-    "caption": "{name}"
+    "caption": "{name}",
+    "color": "#68BDF6",
+    "border-color": "#5CA8DB",
+    "text-color-internal": "#FFFFFF"    
   },
   "node.RainUmbrella": {
     "caption": "{name}"
@@ -127,10 +130,7 @@
   },
   "node.korean": {
     "caption": "{name}",
-    "color": "#68BDF6",
-    "border-color": "#5CA8DB",
-    "text-color-internal": "#FFFFFF"    
-},
+  },
   "node.destination_longitude": {
     "caption": "{name}"
   },
