@@ -1,0 +1,442 @@
+{
+  "node": {
+    "diameter": "50px",
+    "color": "#A5ABB6",
+    "border-color": "#9AA1AC",
+    "border-width": "2px",
+    "text-color-internal": "#FFFFFF",
+    "font-size": "10px"
+  },
+  "relationship": {
+    "color": "#FF756E",
+    "shaft-width": "1px",
+    "font-size": "8px",
+    "padding": "3px",
+    "text-color-external": "#000000",
+    "text-color-internal": "#FFFFFF",
+    "caption": "<type>",
+    "border-color": "#E06760"
+  },
+  "node.Actor": {
+    "color": "#68BDF6",
+    "border-color": "#5CA8DB",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.Movie": {
+    "color": "#6DCE9E",
+    "border-color": "#60B58B",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{title}"
+  },
+  "node.*": {
+    "color": "#FF756E",
+    "border-color": "#E06760",
+    "text-color-internal": "#FFFFFF",
+    "defaultCaption": "<id>"
+  },
+  "node.Person": {
+    "color": "#DE9BF9",
+    "border-color": "#BF85D6",
+    "text-color-internal": "#FFFFFF",
+    "defaultCaption": "<id>",
+    "caption": "{name}"
+  },
+  "node.User": {
+    "color": "#FB95AF",
+    "border-color": "#E0849B",
+    "text-color-internal": "#FFFFFF",
+    "defaultCaption": "<id>"
+  },
+  "node.Director": {
+    "color": "#FFD86E",
+    "border-color": "#EDBA39",
+    "text-color-internal": "#604A0E",
+    "defaultCaption": "<id>"
+  },
+  "node.Resource": {
+    "caption": "{uri}",
+    "color": "#68BDF6",
+    "border-color": "#5CA8DB",
+    "text-color-internal": "#FFFFFF"
+  },
+  "node.Anacin": {
+    "caption": "{name}"
+  },
+  "node.Medicine": {
+    "caption": "{name}"
+  },
+  "node.Shampoo": {
+    "caption": "{name}"
+  },
+  "node.grocery_or_supermarket": {
+    "caption": "{name}",
+    "diameter": "80px",
+    "color": "#6DCE9E",
+    "border-color": "#60B58B",
+    "text-color-internal": "#FFFFFF"
+  },
+  "node.pharmacy": {
+    "caption": "{name}"
+  },
+  "node.Product": {
+    "caption": "{name}"
+  },
+  "node.bangladeshi": {
+    "caption": "{name}"
+  },
+  "node.restaurant": {
+    "caption": "{name}"
+  },
+  "node.RainUmbrella": {
+    "caption": "{name}"
+  },
+  "node.department_store": {
+    "caption": "{name}"
+  },
+  "node.parking_space_extra_large": {
+    "caption": "{name}"
+  },
+  "node.generic": {
+    "caption": "{name}"
+  },
+  "node.health_medical": {
+    "caption": "{name}"
+  },
+  "node.allowed_method": {
+    "caption": "{name}"
+  },
+  "node.payment": {
+    "caption": "{name}"
+  },
+  "node.entity": {
+    "caption": "{name}"
+  },
+  "node.property": {
+    "caption": "{name}"
+  },
+  "node.real_estate_agency": {
+    "caption": "{name}"
+  },
+  "node.bakery": {
+    "caption": "{name}"
+  },
+  "node.kimchi": {
+    "caption": "{name}"
+  },
+  "node.korean": {
+    "caption": "{name}"
+},
+  "node.destination_longitude": {
+    "caption": "{name}"
+  },
+  "node.decimal": {
+    "caption": "{name}"
+  },
+  "node.geocode": {
+    "caption": "{name}"
+  },
+  "node.sambal_udang": {
+    "caption": "{name}"
+  },
+  "node.french_fries": {
+    "caption": "{name}"
+  },
+  "node.nasi_lemak": {
+    "caption": "{name}"
+  },
+  "node.char_siu": {
+    "caption": "{name}"
+  },
+  "node.fish_n_chip": {
+    "caption": "{name}"
+  },
+  "node.cabbage_roll": {
+    "caption": "{name}"
+  },
+  "node.pelmeni": {
+    "caption": "{name}"
+  },
+  "node.paella": {
+    "caption": "{name}"
+  },
+  "node.jerk_chicken": {
+    "caption": "{name}"
+  },
+  "node.risotto": {
+    "caption": "{name}"
+  },
+  "node.sticky_rice": {
+    "caption": "{name}"
+  },
+  "node.beef_stroganoff": {
+    "caption": "{name}"
+  },
+  "node.kebab": {
+    "caption": "{name}"
+  },
+  "node.sandwich": {
+    "caption": "{name}"
+  },
+  "node.tandoori_chicken": {
+    "caption": "{name}"
+  },
+  "node.roti": {
+    "caption": "{name}"
+  },
+  "node.sushi": {
+    "caption": "{name}"
+  },
+  "node.mole": {
+    "caption": "{name}"
+  },
+  "node.sirloin": {
+    "caption": "{name}"
+  },
+  "node.koobideh": {
+    "caption": "{name}"
+  },
+  "node.bisteca": {
+    "caption": "{name}"
+  },
+  "node.egg_roll": {
+    "caption": "{name}"
+  },
+  "node.penne": {
+    "caption": "{name}"
+  },
+  "node.fried_chicken": {
+    "caption": "{name}"
+  },
+  "node.massaman_curry": {
+    "caption": "{name}"
+  },
+  "node.rendang": {
+    "caption": "{name}"
+  },
+  "node.cubano": {
+    "caption": "{name}"
+  },
+  "node.bibimbap": {
+    "caption": "{name}"
+  },
+  "node.samosa": {
+    "caption": "{name}"
+  },
+  "node.gazpacho": {
+    "caption": "{name}"
+  },
+  "node.porridge": {
+    "caption": "{name}"
+  },
+  "node.banh_mi": {
+    "caption": "{name}"
+  },
+  "node.chicharron": {
+    "caption": "{name}"
+  },
+  "node.dishAvailableAtBusiness-3rd": {
+    "caption": "{name}"
+  },
+  "node.wonton_noodle": {
+    "caption": "{name}"
+  },
+  "node.chicken_tikka_masala": {
+    "caption": "{name}"
+  },
+  "node.empanada": {
+    "caption": "{name}"
+  },
+  "node.pupusa": {
+    "caption": "{name}"
+  },
+  "node.gumbo": {
+    "caption": "{name}"
+  },
+  "node.pizza": {
+    "caption": "{name}"
+  },
+  "node.coconut_shrimp": {
+    "caption": "{name}"
+  },
+  "node.papaya_salad": {
+    "caption": "{name}"
+  },
+  "node.rogan_josh": {
+    "caption": "{name}"
+  },
+  "node.prime_rib": {
+    "caption": "{name}"
+  },
+  "node.chicken_marsala": {
+    "caption": "{name}"
+  },
+  "node.hot_pot": {
+    "caption": "{name}"
+  },
+  "node.pierogi": {
+    "caption": "{name}"
+  },
+  "node.wonton": {
+    "caption": "{name}"
+  },
+  "node.enchilada": {
+    "caption": "{name}"
+  },
+  "node.crepe": {
+    "caption": "{name}"
+  },
+  "node.ramen": {
+    "caption": "{name}"
+  },
+  "node.ceviche": {
+    "caption": "{name}"
+  },
+  "node.kofta": {
+    "caption": "{name}"
+  },
+  "node.bento": {
+    "caption": "{name}"
+  },
+  "node.tempura": {
+    "caption": "{name}"
+  },
+  "node.quiche": {
+    "caption": "{name}"
+  },
+  "node.nigiri": {
+    "caption": "{name}"
+  },
+  "node.bandeja_paisa": {
+    "caption": "{name}"
+  },
+  "node.steak_frites": {
+    "caption": "{name}"
+  },
+  "node.dolma": {
+    "caption": "{name}"
+  },
+  "node.porterhouse": {
+    "caption": "{name}"
+  },
+  "node.omelette": {
+    "caption": "{name}"
+  },
+  "node.strudel": {
+    "caption": "{name}"
+  },
+  "node.black_pudding": {
+    "caption": "{name}"
+  },
+  "node.hot_dog": {
+    "caption": "{name}"
+  },
+  "node.jambalaya": {
+    "caption": "{name}"
+  },
+  "node.sashimi": {
+    "caption": "{name}"
+  },
+  "node.larb": {
+    "caption": "{name}"
+  },
+  "node.new_york_strip": {
+    "caption": "{name}"
+  },
+  "node.sweet_sour_pork": {
+    "caption": "{name}"
+  },
+  "node.etouffee": {
+    "caption": "{name}"
+  },
+  "node.green_curry": {
+    "caption": "{name}"
+  },
+  "node.carbonara": {
+    "caption": "{name}"
+  },
+  "node.quesadilla": {
+    "caption": "{name}"
+  },
+  "node.moo_shu_pork": {
+    "caption": "{name}"
+  },
+  "node.tea": {
+    "caption": "{name}"
+  },
+  "node.kung_pao_chicken": {
+    "caption": "{name}"
+  },
+  "node.orange_chicken": {
+    "caption": "{name}"
+  },
+  "node.feijoada": {
+    "caption": "{name}"
+  },
+  "node.pork_adobo": {
+    "caption": "{name}"
+  },
+  "node.butter_chicken": {
+    "caption": "{name}"
+  },
+  "node.biryani": {
+    "caption": "{name}"
+  },
+  "node.pulled_pork": {
+    "caption": "{name}"
+  },
+  "node.ribs": {
+    "caption": "{name}"
+  },
+  "node.mohinga": {
+    "caption": "{name}"
+  },
+  "node.spaghetti": {
+    "caption": "{name}"
+  },
+  "node.nacho": {
+    "caption": "{name}"
+  },
+  "node.caldo_verde": {
+    "caption": "{name}"
+  },
+  "node.rice": {
+    "caption": "{name}"
+  },
+  "node.brisket": {
+    "caption": "{name}"
+  },
+  "node.chop_suey": {
+    "caption": "{name}"
+  },
+  "node.tabbouleh": {
+    "caption": "{name}"
+  },
+  "node.bacon_and_egg": {
+    "caption": "{name}"
+  },
+  "node.orange_beef": {
+    "caption": "{name}"
+  },
+  "node.stinky_tofu": {
+    "caption": "{name}"
+  },
+  "node.tamale": {
+    "caption": "{name}"
+  },
+  "node.moussaka": {
+    "caption": "{name}"
+  },
+  "node.dim_sum": {
+    "caption": "{name}"
+  },
+  "node.Advil": {
+    "caption": "{name}"
+  },
+  "node.bulgogi": {
+    "caption": "{name}"
+  },
+  "node.galbi": {
+    "caption": "{name}"
+  }
+}
