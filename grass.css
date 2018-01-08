@@ -69,6 +69,12 @@
   "node.Shampoo": {
     "caption": "{name}"
   },
+  "node.Dish": {
+    "color": "#FFD86E",
+    "border-color": "#EDBA39",
+    "text-color-internal": "#604A0E",
+    "defaultCaption": "<id>"
+  },
   "node.grocery_or_supermarket": {
     "caption": "{name}",
     "diameter": "80px",
