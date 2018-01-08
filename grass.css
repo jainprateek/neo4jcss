@@ -116,6 +116,28 @@
     "text-color-internal": "#FFFFFF"    
   },
 
+  "node.Place": {
+    "caption": "{name}",
+    "color": "#FFE4E1",
+    "border-color": "#5CA8DB",
+    "text-color-internal": "#FFFFFF"    
+  },
+  
+  "node.Amenity": {
+    "caption": "{name}",
+    "color": "#FA8072",
+    "border-color": "#5CA8DB",
+    "text-color-internal": "#FFFFFF"    
+  },
+
+  "node.Location": {
+    "caption": "{name}",
+    "color": "#F4A460",
+    "border-color": "#5CA8DB",
+    "text-color-internal": "#FFFFFF"    
+  },
+
+
   "node.RainUmbrella": {
     "caption": "{name}"
   },
