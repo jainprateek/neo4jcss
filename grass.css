@@ -128,8 +128,11 @@
   "node.allowed_method": {
     "caption": "{name}"
   },
-  "node.payment": {
-    "caption": "{name}"
+  "node.Payment": {
+    "caption": "{name}",
+    "color": "#F5DEB3",
+    "border-color": "#5CA8DB",
+    "text-color-internal": "#FFFFFF"    
   },
   "node.entity": {
     "caption": "{name}"
