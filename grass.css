@@ -94,12 +94,22 @@
   "node.bangladeshi": {
     "caption": "{name}"
   },
-  "node.restaurant": {
+  "node.Restaurant": {
     "caption": "{name}",
     "color": "#68BDF6",
     "border-color": "#5CA8DB",
     "text-color-internal": "#FFFFFF"    
   },
+
+
+  "node.Business": {
+    "caption": "{name}",
+    "color": "#B0E0E6",
+    "border-color": "#5CA8DB",
+    "text-color-internal": "#FFFFFF"    
+  },
+
+
   "node.RainUmbrella": {
     "caption": "{name}"
   },
