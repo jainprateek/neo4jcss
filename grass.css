@@ -80,7 +80,10 @@
     "caption": "{name}"
   },
   "node.Product": {
-    "caption": "{name}"
+    "caption": "{name}",
+    "color": "#ADFF2F",
+    "border-color": "#5CA8DB",
+    "text-color-internal": "#FFFFFF"    
   },
   "node.bangladeshi": {
     "caption": "{name}"
