@@ -109,6 +109,12 @@
     "text-color-internal": "#FFFFFF"    
   },
 
+  "node.Parking": {
+    "caption": "{name}",
+    "color": "#DDA0DD",
+    "border-color": "#5CA8DB",
+    "text-color-internal": "#FFFFFF"    
+  },
 
   "node.RainUmbrella": {
     "caption": "{name}"
