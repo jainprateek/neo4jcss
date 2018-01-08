@@ -101,6 +101,12 @@
     "text-color-internal": "#FFFFFF"    
   },
 
+  "node.Enumeration": {
+    "caption": "{name}",
+    "color": "#FF8C00",
+    "border-color": "#5CA8DB",
+    "text-color-internal": "#FFFFFF"    
+  },
 
   "node.Business": {
     "caption": "{name}",
