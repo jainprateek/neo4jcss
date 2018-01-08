@@ -137,8 +137,11 @@
   "node.entity": {
     "caption": "{name}"
   },
-  "node.property": {
-    "caption": "{name}"
+  "node.Property": {
+    "caption": "{name}",
+    "color": "#4169E1",
+    "border-color": "#5CA8DB",
+    "text-color-internal": "#FFFFFF"    
   },
   "node.real_estate_agency": {
     "caption": "{name}"
