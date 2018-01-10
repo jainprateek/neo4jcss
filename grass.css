@@ -17,6 +17,14 @@
     "caption": "<type>",
     "border-color": "#E06760"
   },
+
+
+  "node.Rule": {
+    "color": "#6DCE9E",
+    "border-color": "#60B58B",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+   },	
   "node.Actor": {
     "color": "#68BDF6",
     "border-color": "#5CA8DB",
