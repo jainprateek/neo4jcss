@@ -18,7 +18,27 @@
     "border-color": "#E06760"
   },
 
+  "relationship.has antecedent": {
+    "color": "#FF756E",
+    "shaft-width": "1px",
+    "font-size": "18px",
+    "padding": "5px",
+    "text-color-external": "#000000",
+    "text-color-internal": "#FFFFFF",
+    "caption": "<type>",
+    "border-color": "#E06760"
+  },
 
+  "relationship.has consequent": {
+    "color": "#FF756E",
+    "shaft-width": "1px",
+    "font-size": "18px",
+    "padding": "5px",
+    "text-color-external": "#000000",
+    "text-color-internal": "#FFFFFF",
+    "caption": "<type>",
+    "border-color": "#E06760"
+  },
   "node.Rule": {
     "color": "#68BDF6",
     "border-color": "#60B58B",
