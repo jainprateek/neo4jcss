@@ -1,6 +1,6 @@
 {
   "node": {
-    "diameter": "60px",
+    "diameter": "80px",
     "color": "#A5ABB6",
     "border-color": "#9AA1AC",
     "border-width": "2px",
@@ -48,13 +48,13 @@
   "node.Antecedent Component": {
     "color": "#6DCE9E",
     "border-color": "#60B58B",
-    "text-color-internal": "#FFFFFF",
+    "text-color-internal": "#000000",
     "caption": "{name}"
    },
   "node.Consequent Component": {
     "color": "#BF85D6",
     "border-color": "#60B58B",
-    "text-color-internal": "#FFFFFF",
+    "text-color-internal": "#000000",
     "caption": "{name}"
    },
   "node.Actor": {
