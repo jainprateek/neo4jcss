@@ -110,6 +110,65 @@
     "border-color": "#60B58B",
     "text-color-internal": "#FFFFFF"
   },
+
+  "node.Physical State": {
+    "caption": "{name}",
+    "diameter": "80px",
+    "color": "#009933",
+    "border-color": "#60B58B",
+    "text-color-internal": "#FFFFFF"
+  },
+
+  "node.Activity": {
+    "caption": "{name}",
+    "diameter": "80px",
+    "color": "#ff9900",
+    "border-color": "#60B58B",
+    "text-color-internal": "#FFFFFF"
+  },
+  "node.Medicine": {
+    "caption": "{name}",
+    "diameter": "80px",
+    "color": "#6DCE9E",
+    "border-color": "#60B58B",
+    "text-color-internal": "#FFFFFF"
+  },
+  "node.Medicine": {
+    "caption": "{name}",
+    "diameter": "80px",
+    "color": "#6DCE9E",
+    "border-color": "#60B58B",
+    "text-color-internal": "#FFFFFF"
+  },
+  "node.Medicine": {
+    "caption": "{name}",
+    "diameter": "80px",
+    "color": "#6DCE9E",
+    "border-color": "#60B58B",
+    "text-color-internal": "#FFFFFF"
+  },
+  "node.Medicine": {
+    "caption": "{name}",
+    "diameter": "80px",
+    "color": "#6DCE9E",
+    "border-color": "#60B58B",
+    "text-color-internal": "#FFFFFF"
+  },
+  "node.Medicine": {
+    "caption": "{name}",
+    "diameter": "80px",
+    "color": "#6DCE9E",
+    "border-color": "#60B58B",
+    "text-color-internal": "#FFFFFF"
+  },
+  "node.Medicine": {
+    "caption": "{name}",
+    "diameter": "80px",
+    "color": "#6DCE9E",
+    "border-color": "#60B58B",
+    "text-color-internal": "#FFFFFF"
+  },
+
   "node.Shampoo": {
     "caption": "{name}"
   },
